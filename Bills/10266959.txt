@@ -1,0 +1,27 @@
+
+			Nexus-Shopping Portal
+		 Phone No. 98725***** , Delhi-125001
+==========================================================
+ Customer Name: Alok Kumar
+ Phone NO. :2658947158
+ Bill No. 10266959			Date: 10/11/2022
+
+ Dealer-Name : Sujeet Kumar Singh
+ Supplier : Suresh Kumar Yadav
+ Supplier_Contact : 
+==========================================================
+ Product Name			QTY	  Price
+==========================================================
+        
+ AC			10	 Rs.357680.0
+ Nike			1	 Rs.589.0
+==========================================================
+ Bill Amount				Rs.  358269.0
+ Discount				Rs.  0.0
+ Net Pay				Rs.  358269.0
+==========================================================
+
+      Thanks For Doing Shopping with us!
+             Have a nice Day!!!
+==========================================================
+        
